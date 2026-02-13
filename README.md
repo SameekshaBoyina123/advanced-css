@@ -99,11 +99,11 @@ All layouts, animations, and theme switching work correctly across different scr
 ---
 
 ## 📸 Screenshots
-
-Screenshots of the project are included in the `screenshots` folder:
-
 - Desktop view
+ <img width="712" height="480" alt="image" src="https://github.com/user-attachments/assets/098f4f00-afa8-430f-af8e-f331b12fe575" />
+ <img width="434" height="182" alt="image" src="https://github.com/user-attachments/assets/0e73e333-da92-4d4b-b1a5-ab9cc46b5a4e" />
 - Project hover effects
+ <img width="319" height="95" alt="image" src="https://github.com/user-attachments/assets/b073cb67-eb82-45e0-b8c6-94a2ef011cce" />
 
 ---
 
